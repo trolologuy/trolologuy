@@ -6,7 +6,7 @@
 </p>
 
 ## About me
-Find my portfolio [here](trolologuy.github.io/)
+Find my portfolio [here](https://trolologuy.github.io/)
 
 ## Things I am passionate about
 
