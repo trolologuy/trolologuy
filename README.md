@@ -6,7 +6,13 @@
 </p>
 
 ## About me
-Find my portfolio [here](https://trolologuy.github.io/)
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aloys-dillar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://trolologuy.github.io/"><img alt="resume" title="Resume" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/2695641/trolologuy"><img alt="My profile on Stackoverflow" src="https://img.shields.io/badge/%20-Stack%20Overflow-white?logo=stackoverflow&style=for-the-badge&logoColor=black"></a>
+</p>
+
 
 ## Things I am passionate about
 
