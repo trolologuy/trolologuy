@@ -1,9 +1,10 @@
 # Hi there 👋
-
+<!-- Site is currently broken, commenting it out for now.
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/trolologuy/count.svg" />
 </p>
+-->
 
 ## About me
 
